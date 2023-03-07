@@ -1,4 +1,4 @@
-# DNS_bind
+# DNS_bind_ubuntu_server
 On both DNS servers, ns1 and ns2, update apt: 
 
 sudo apt-get update 
